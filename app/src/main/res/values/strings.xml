@@ -2,4 +2,5 @@
     <string name="app_name">Message</string>
     <string name="hint">Envie Uma Mensagem :D</string>
     <string name="send">Enviar</string>
+    <string name="chooser">Escolha um App</string>
 </resources>
